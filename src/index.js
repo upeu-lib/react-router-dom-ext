@@ -1,9 +1,6 @@
-import React, {Component} from 'react'
+export { default } from './Routes';
+export { default as RouteWithSubRoutes} from './RouteWithSubRoutes';
+export { default as findActiveNodeRoute} from './ActiveNodeRoute';
+export { default as pageToTitle } from './Title';
+export { default as titleize} from './Titleize';
 
-export default class extends Component {
-  render() {
-    return <div>
-      <h2>Welcome to React components</h2>
-    </div>
-  }
-}
