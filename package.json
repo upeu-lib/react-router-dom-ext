@@ -33,7 +33,10 @@
   "author": "",
   "homepage": "",
   "license": "MIT",
-  "repository": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/upeu-lib/react-router-dom-ext.git"
+  },
   "keywords": [
     "react-component"
   ]
