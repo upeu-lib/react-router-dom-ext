@@ -4,7 +4,35 @@
 [![npm package][npm-badge]][npm]
 [![Coveralls][coveralls-badge]][coveralls]
 
-Describe react-router-dom-ext here.
+
+# Install
+
+```
+$ npm i -S react-router-dom-ext
+
+```
+
+# Run demo en modo local
+
+## Clone
+
+```
+$ git clone https://github.com/upeu-lib/react-router-dom-ext.git
+$ cd react-router-dom-ext
+
+```
+
+## install and start
+
+```
+$ npm install
+$ npm start
+
+```
+## Demo
+[Demo]
+
+
 
 [build-badge]: https://img.shields.io/travis/user/repo/master.png?style=flat-square
 [build]: https://travis-ci.org/user/repo
@@ -15,4 +43,6 @@ Describe react-router-dom-ext here.
 [coveralls-badge]: https://img.shields.io/coveralls/user/repo/master.png?style=flat-square
 [coveralls]: https://coveralls.io/github/user/repo
 
-npm publish
+[Demo]: https://upeu-lib.github.io/react-router-dom-ext
+
+
